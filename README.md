@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jaren Zulauf! 👋
 
-<!--
-**jarenZulauf/jarenZulauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at **San José State University** in Denver, Colorado, passionate about learning, technology, and research. Currently, I'm exploring various academic interests and working on projects to build my skills.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying at San José State University
+- 📍 Based in Denver, Colorado
+- 📅 Born on February 1, 1996
+- ⚡ Fun fact: I love diving into new challenges and connecting with like-minded peers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Feel free to reach out to me via phone at (303) 478-4717. I don't have an email address listed here, but I'm happy to connect through other channels.
+
+## What's Next?
+I'm excited to share more about my journey, projects, and experiences as I grow in my academic career. Stay tuned for updates!
