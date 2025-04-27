@@ -5,7 +5,7 @@ I'm a student at **San José State University** in Denver, Colorado, passionate 
 ## About Me
 - 🎓 Studying at San José State University
 - 📍 Based in Denver, Colorado
-- 📅 Born on February 1, 1996
+- 📅 Born on February 1, 2005
 - ⚡ Fun fact: I love diving into new challenges and connecting with like-minded peers!
 
 ## Contact
