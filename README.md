@@ -1,15 +1,12 @@
-# Hi, I'm Jaren Zulauf! 👋
+# Hey, I'm Jaren Zulauf! 👋
 
-I'm a student at **San José State University** in Denver, Colorado, passionate about learning, technology, and research. Currently, I'm exploring various academic interests and working on projects to build my skills.
+Welcome to my GitHub profile! I'm a student at **San José State University** right here in the tech hub of San José, California. My main interest lies in programming and software development, and I'm always eager to dive into new technologies and coding challenges.
 
 ## About Me
-- 🎓 Studying at San José State University
-- 📍 Based in Denver, Colorado
-- 📅 Born on February 1, 2005
-- ⚡ Fun fact: I love diving into new challenges and connecting with like-minded peers!
-
-## Contact
-Feel free to reach out to me via phone at (303) 478-4717. I don't have an email address listed here, but I'm happy to connect through other channels.
-
-## What's Next?
-I'm excited to share more about my journey, projects, and experiences as I grow in my academic career. Stay tuned for updates!
+- 🎓 Studying at **San José State University**
+- 📍 Based in San José, CA
+- 💻 Passionate about coding and turning ideas into functional software.
+- 🚀 Exploring technologies like [Mention 1-2 technologies like: Python, Java, JavaScript, C++, etc.]
+- 💡 Working on projects to enhance my programming abilities.
+- 💬 Feel free to connect if you share similar interests!
+- ⚡ Fun fact: Debugging code feels like solving a puzzle!
